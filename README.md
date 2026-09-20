@@ -2,6 +2,10 @@
 
 **Closed-loop position control of a DC motor, closed by a magnetic rotary encoder — the bench work that came before [active-ankle-prosthesis](https://github.com/Tawakoll/active-ankle-prosthesis).**
 
+<img src="media/demo/motor-pid-demo.gif" width="35%">
+
+The motor tracking the PID position loop on the bench. The original screen capture is at [`media/demo/dc-motor-pid-enhanced.mp4`](media/demo/dc-motor-pid-enhanced.mp4) (full quality; GitHub will not play it inline from a repository path, so it downloads rather than streams, which is why the GIF is here instead) — the unprocessed capture is [`dc-motor-pid-original.mp4`](media/demo/dc-motor-pid-original.mp4).
+
 <img src="media/hardware/motor-test-bench.png" width="50%">
 
 **1** RS-550S motor · **2** ball screw and coupling · **3** Cytron MD10C driver · **4** ATmega328 board · **5** 18 V drill battery
